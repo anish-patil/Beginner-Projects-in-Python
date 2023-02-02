@@ -1,0 +1,1 @@
+words="Oracle","Twitter","Nintendo","Microsoft","Samsung","Uber","Apple","Boat","Sony","Jbl","OnePlus","Google","Meta","Netflix","Amazon","Cisco","Infosys","Wipro","Intel","Nvidia","Logitech","Deloitte","FromSoftware","Tesla"
