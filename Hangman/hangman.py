@@ -34,6 +34,6 @@ def hangman():
     if(lives!=0):
         print(f"Congrats u have guessed the word {word} in {num} tries")
     else:
-        print(f"U have lost the game since no more lives are left. The word was {word}")
+        print(f"GAME LOST, no more lives remaining. The word was {word}")
 # gets here when length of word_letter==0
 hangman()
